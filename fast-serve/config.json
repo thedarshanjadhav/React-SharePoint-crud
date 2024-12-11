@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/s-KaiNet/spfx-fast-serve/master/schema/config.latest.schema.json",
+  "serve": {
+    "eslint": false,
+    "hotRefresh": false,
+    "openUrl": "https://clayfly.sharepoint.com/sites/TS-Rohit/_layouts/15/workbench.aspx"
+  },
+  "cli": {
+    "isLibraryComponent": false
+  }
+}
